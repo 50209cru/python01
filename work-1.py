@@ -1,0 +1,11 @@
+print("Hello M.6/11")
+print("My name is Tanrat Sunipat")
+print("No.40")
+print("Age:",18,"year")
+print("I love Friday")
+print("I love dog and cat")
+print("My friends is very crazy")
+print("But i love all of them")
+print("My hoppy is Listen music")
+print("No music no life")
+#ธัญญ์รัศม์ สุนิพัฒน์ ม.6/11 เลขที่40
